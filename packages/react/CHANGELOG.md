@@ -1,5 +1,11 @@
 # @primer/react
 
+## 38.42.1
+
+### Patch Changes
+
+- [#8524](https://github.com/primer/react/pull/8524) [`0d5607c`](https://github.com/primer/react/commit/0d5607c3b29ab090a0a97d1532fdc3a066a37d3d) Thanks [@tay1orjones](https://github.com/tay1orjones)! - TreeView: Prevent typeahead errors and focus changes when typing in nested controls.
+
 ## 38.42.0
 
 ### Minor Changes
